@@ -26,10 +26,10 @@ Mac上使用率最高的终端.
 
 ### [IntelliJ](https://www.jetbrains.com/idea/) (荐)
 JetBrain 推出的Java语言的IDE, MacOS/ Window平台皆可使用. 虽然是Java IDE, 但通过添加各种plugin, 可以开发多种语言. JetBrain旗下也开发了众多针对其他语言的IDE. 
-  #### [Pycharm](https://www.jetbrains.com/pycharm/) python开发IDE.
-  #### [RubyMine](https://www.jetbrains.com/ruby/) Ruby
-  #### [WebStorm](https://www.jetbrains.com/webstorm/) Web/PHP/CSS/HTML/...
-  #### [AndroidStudio](https://developer.android.com/studio) 
+  - [**Pycharm**](https://www.jetbrains.com/pycharm/) python开发IDE.
+  - [**RubyMine**](https://www.jetbrains.com/ruby/) Ruby
+  - [**WebStorm**](https://www.jetbrains.com/webstorm/) Web/PHP/CSS/HTML/...
+  - [**AndroidStudio**](https://developer.android.com/studio) 
   没错, androidStudio就是JetBrain家的.
   
 ## 压缩/解压
