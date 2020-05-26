@@ -42,7 +42,10 @@ JetBrain 推出的Java语言的IDE, MacOS/ Window平台皆可使用. 虽然是Ja
   - [**WebStorm**](https://www.jetbrains.com/webstorm/) Web/PHP/CSS/HTML/...
   - [**AndroidStudio**](https://developer.android.com/studio) 
   没错, androidStudio就是JetBrain家的.
-  
+
+### [Insomnia Core](https://insomnia.rest/download/#mac)
+REST 请求模拟器. 开发和API相关或者测试的开发者们一定会用到的东西. 同类软件中最有名的应该是Postman, 但相比之下, Insomnia界面简单整洁, 功能简单明了. 我相信只需要REST请求的朋友们会更喜欢这个应用的. (Postman相当的臃肿了...)
+
 ## 压缩/解压
 ### [BundiZip](https://cn.bandisoft.com/bandizip.mac/)
 韩国开发的压缩软件, 以前windows平台的时候就经常使用. 软件免费, 功能全面, UI简洁, 且完全免费. 比其他国内外的软件要优秀的多. 但似乎现在还不是很有名, 市场占有率不高.
