@@ -15,6 +15,17 @@
 ### [Magnet](https://magnet.crowdcafe.com/)
 用快捷键控制窗口排列的软件. Appstore上收费下载. 我个人在入门Mac的初期还是经常使用的. 还为了这个付费购买了软件. 虽然看每个人的使用习惯, 但实用性还是很高的.
 
+### [VM Fusion](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/11_0) (荐)
+虚拟机. MacOS上运行Windows的最佳方案. 按我个人的体验, VM Fusion 要比其他模拟器在功能和易用度上都很优秀, 也不用像Bootcamp那样需要安装在系统底层, 设置的不得当还容易损失硬盘的数据..
+
+收费, ~~但网络上资源还是比较多的, 微笑~~
+
+### [Parallels Desktop](https://www.parallels.cn/products/desktop/)
+虚拟机, 口碑和VM Fusion 不相伯仲. 同样是收费软件. 因为没有使用过, 所以不好评价.
+
+### [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+虚拟机, 三款常用虚拟机里最弱势的一个, 但胜在免费开源!
+
 ## 影音
 ### [IINA](https://iina.io/) (荐)
 一款开源的视频播放器, UI很贴近原生Mac App设计. 有了这一款, 其他的播放器基本就都不需要了.
