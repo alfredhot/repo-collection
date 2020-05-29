@@ -8,6 +8,31 @@
 > [**qianguyihao**](https://github.com/qianguyihao) 这位仁兄整理的列表比较全面, 有兴趣的朋友们可以挨个试一试: 
 > [01-Mac软件汇总](https://github.com/qianguyihao/Mac/blob/master/01-Mac%E8%BD%AF%E4%BB%B6/01-Mac%E8%BD%AF%E4%BB%B6%E6%B1%87%E6%80%BB.md)
 
+## 目录
+- [Mac 优质软件收藏](#mac-------)
+  * [系统](#--)
+    + [[Alfred](https://www.alfredapp.com/) (荐)](#-alfred--https---wwwalfredappcom------)
+    + [[Magnet](https://magnet.crowdcafe.com/)](#-magnet--https---magnetcrowdcafecom--)
+    + [[VM Fusion](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/11_0) (荐)](#-vm-fusion--https---myvmwarecom-en-web-vmware-info-slug-desktop-end-user-computing-vmware-fusion-11-0-----)
+    + [[Parallels Desktop](https://www.parallels.cn/products/desktop/)](#-parallels-desktop--https---wwwparallelscn-products-desktop--)
+    + [[VirtualBox](https://www.virtualbox.org/wiki/Downloads)](#-virtualbox--https---wwwvirtualboxorg-wiki-downloads-)
+  * [影音](#--)
+    + [[IINA](https://iina.io/) (荐)](#-iina--https---iinaio------)
+  * [图片](#--)
+    + [[imageOptim](https://imageoptim.com/mac)](#-imageoptim--https---imageoptimcom-mac-)
+    + [[iPic](https://toolinbox.net/iPic/)](#-ipic--https---toolinboxnet-ipic--)
+  * [程序猿](#---)
+    + [[ITerm2](https://www.iterm2.com/) (荐)](#-iterm2--https---wwwiterm2com------)
+    + [[IntelliJ](https://www.jetbrains.com/idea/) (荐)](#-intellij--https---wwwjetbrainscom-idea------)
+    + [[Insomnia Core](https://insomnia.rest/download/#mac)](#-insomnia-core--https---insomniarest-download--mac-)
+  * [压缩/解压](#-----)
+    + [[BundiZip](https://cn.bandisoft.com/bandizip.mac/)](#-bundizip--https---cnbandisoftcom-bandizipmac--)
+  * [文档](#--)
+    + [[Curio](https://www.zengobi.com/curio/)](#-curio--https---wwwzengobicom-curio--)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## 系统
 ### [Alfred](https://www.alfredapp.com/) (荐)
 代替MacOS 原生Spotlight的应用. 付费版功能强大, **搜索/词典/计算/快捷启动应用** 等常用功能十分便利实用. 很多功能需要付费使用, 想要体验的同学请自行搜索不付费使用的方法.:stuck_out_tongue_closed_eyes:
