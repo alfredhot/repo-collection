@@ -62,6 +62,17 @@ REST 请求模拟器. 开发和API相关或者测试的开发者们一定会用�
 我曾亲自见过Youtube上很多人在线讲课用这个软件. 将几乎所有可能格式的内容自由排列的功能看着确实很强大. 也确实很适合做课件. 
 只有MacOS版. 软件收费.
 
-### [Evernote](https://evernote.com/intl/zh-cn/)
+### [Evernote](https://evernote.com/intl/zh-cn/) / [印象笔记](https://www.yinxiang.com/)
 不用多做介绍了吧? 笔记老品牌了, 虽然有很多声称要推翻evernote的新服务出现, 但至少现在为止还是用的最为广泛的笔记服务. 收费.
-`*注:`Evernote在早年就分出来了中国的服务<印象笔记>. PC版的印象笔记支持原生支持Markdown, Mindmap等 Evernote上需要插件才能使用的功能. 体验非常不错. 个人建议PC端使用
+
+`*注:`Evernote在早年就分出来了中国的服务**印象笔记**. PC版的印象笔记支持原生支持Markdown, Mindmap等 Evernote上需要插件才能使用的功能. 体验非常不错. 个人建议PC端使用印象笔记. 但移动端的印象笔记不支持markdown/mindmap的编辑. 所以移动端用Evernote或者印象笔记都无所谓.
+
+*如果一开始账号是在Evernote注册的, 那么使用印象笔记的时候需要选择用国际账号登录.*
+
+### [Notion](https://www.notion.so/desktop) (荐)
+> A unified & collaborative workspace for your notes, wikis, and tasks.  
+> 将笔记、知识库和任务管理无缝整合的协作平台
+
+静悄悄爬上来的笔记应用新强者. 定义了一个新颖又简单的笔记概念. 所有的段落都是一个block. 一个block可以是是另一篇笔记, 也可以是链接,亦或是普通的段落. 同时也可以建立表格, 进行数据管理.
+
+我自己已经使用了两年左右(记不清了), 一开始还只是尝鲜的公众号推荐的小众笔记应用, 现在的话, 能看到讨论的板块里很多人都在使用notion, 不比evernote少.  毕竟Evernote的缺点也很明显. 2020年中Notion解除了免费账户只能建立1000个block的限制. 真正意义上变成了一个实用又价廉的工具. 强力推荐! 
